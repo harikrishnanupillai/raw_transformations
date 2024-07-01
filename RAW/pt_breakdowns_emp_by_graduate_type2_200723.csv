@@ -1,0 +1,409 @@
+time_period,time_identifier,geographic_level,country_code,country_name,graduate_type,pt_characteristic,pt_breakdown,pt_employment_proportion,pt_employment_accuracy_flag
+2007,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2007,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,54.1,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2007,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,10.2,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,18.6,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,7.8,0
+2007,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,17.6,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,24.3,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,16.4,0
+2007,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,18.8,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,23.3,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,17.9,0
+2007,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,24,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,27.4,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,20,0
+2007,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,45.7,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,39.4,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,53.5,0
+2007,Calendar year,National,E92000001,England,Graduate,Gender,Female,27.6,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,45.9,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,27.2,0
+2007,Calendar year,National,E92000001,England,Graduate,Gender,Male,7.3,0
+2007,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,10.1,0
+2007,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,8.1,0
+2008,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2008,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,55.2,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2008,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,10.6,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,19.3,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,8,0
+2008,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,17.7,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,23.7,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,15.2,0
+2008,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,19,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,23.5,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,17.7,0
+2008,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,21.2,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.6,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,21.4,0
+2008,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,49.3,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40.6,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,53.5,0
+2008,Calendar year,National,E92000001,England,Graduate,Gender,Female,27.8,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,45.6,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,26.5,0
+2008,Calendar year,National,E92000001,England,Graduate,Gender,Male,6.8,0
+2008,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,10.6,0
+2008,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,8.3,0
+2009,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,49.7,4
+2009,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,59,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,c,4
+2009,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,13.6,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,21.1,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,10,0
+2009,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,18,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,24,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,15.3,0
+2009,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,20.7,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,24.4,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,19.1,0
+2009,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,22.6,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.9,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,21.6,0
+2009,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,47.4,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40.3,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,44.1,0
+2009,Calendar year,National,E92000001,England,Graduate,Gender,Female,30.1,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.2,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,26.6,0
+2009,Calendar year,National,E92000001,England,Graduate,Gender,Male,7.8,0
+2009,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,11.3,0
+2009,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,8.7,0
+2010,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2010,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,61.3,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,c,4
+2010,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,15.1,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,22,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,12.3,0
+2010,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,18.6,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,24.9,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,17.5,0
+2010,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.4,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,25,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,18.9,0
+2010,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,23.7,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.7,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,23.7,0
+2010,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,45,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40.3,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,50.5,0
+2010,Calendar year,National,E92000001,England,Graduate,Gender,Female,31,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.8,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,29.5,0
+2010,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.8,0
+2010,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12,0
+2010,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.8,0
+2011,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2011,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,59.9,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2011,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,15.2,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,23.1,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,11.7,0
+2011,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,18.6,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,25.7,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,19.9,0
+2011,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.3,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,23.6,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,19.5,0
+2011,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,24.4,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,27,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,22.3,0
+2011,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,42.3,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,38.9,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,51.2,0
+2011,Calendar year,National,E92000001,England,Graduate,Gender,Female,31.8,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.8,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,30.2,0
+2011,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.2,0
+2011,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,11.9,0
+2011,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,10,0
+2012,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,47.8,4
+2012,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,62,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2012,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14.9,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,24.2,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,10.8,0
+2012,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,20.4,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,25.6,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,19.2,0
+2012,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,22,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,24.5,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,20.1,0
+2012,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,25.7,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,27,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,21.6,0
+2012,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,45.4,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40.6,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,46.3,0
+2012,Calendar year,National,E92000001,England,Graduate,Gender,Female,33.7,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,47.2,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,30,0
+2012,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.4,0
+2012,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.9,0
+2012,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,8.8,0
+2013,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2013,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,60.7,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,c,4
+2013,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,15.3,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,25.2,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,12.8,0
+2013,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,21.2,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,25.1,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,17.3,0
+2013,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.8,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,24,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,20.6,0
+2013,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,24.4,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,25.9,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,24,0
+2013,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,43.8,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,38.7,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,45.9,0
+2013,Calendar year,National,E92000001,England,Graduate,Gender,Female,33,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.5,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,30,0
+2013,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.4,0
+2013,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.6,0
+2013,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.4,0
+2014,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,82.2,4
+2014,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,57.6,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,c,4
+2014,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14.8,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,23.9,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,12.5,0
+2014,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,19.4,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,25.7,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,17.8,0
+2014,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.2,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,23.9,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,18.9,0
+2014,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,23.6,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,27.1,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,23.6,0
+2014,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,47.8,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,38.3,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,52,0
+2014,Calendar year,National,E92000001,England,Graduate,Gender,Female,31.4,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.6,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,29.6,0
+2014,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.7,0
+2014,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.3,0
+2014,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.7,0
+2015,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,58.3,4
+2015,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,59.2,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2015,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,23.6,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,10.5,0
+2015,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,19.8,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,25.5,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,19.9,0
+2015,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.3,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,24.6,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,19.5,0
+2015,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,23.2,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.6,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,23.9,0
+2015,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,39.4,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40.6,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,54.5,0
+2015,Calendar year,National,E92000001,England,Graduate,Gender,Female,31.3,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.8,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,29.9,0
+2015,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.1,0
+2015,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.7,0
+2015,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,10.2,0
+2016,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,z,4
+2016,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,60,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2016,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,15.4,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,23.8,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,9.1,0
+2016,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,20.1,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,24.9,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,19.3,0
+2016,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.7,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,24,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,21.9,0
+2016,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,24,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.6,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,25.6,0
+2016,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,38.4,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,38.5,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,46.1,0
+2016,Calendar year,National,E92000001,England,Graduate,Gender,Female,31.8,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,46.4,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,30.7,0
+2016,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.7,0
+2016,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.8,0
+2016,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,10,0
+2017,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,53.2,4
+2017,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,58.9,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2017,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14.8,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,22.4,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,11.6,0
+2017,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,19.7,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,24,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,20.2,0
+2017,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,22.5,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,24.1,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,19.9,0
+2017,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,27.6,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.4,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,25.7,0
+2017,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,38.8,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,39.4,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,49.5,0
+2017,Calendar year,National,E92000001,England,Graduate,Gender,Female,32.1,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,45.6,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,31.9,0
+2017,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.8,0
+2017,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.4,0
+2017,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.5,0
+2018,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,75,4
+2018,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,57.4,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,c,4
+2018,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,13.5,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,22.3,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,10.4,0
+2018,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,18.9,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,24,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,20,0
+2018,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,22.1,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,23.4,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,22.2,0
+2018,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,27.5,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.3,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,24.7,0
+2018,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,37.5,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,49.2,0
+2018,Calendar year,National,E92000001,England,Graduate,Gender,Female,30.9,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,45.1,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,31.3,0
+2018,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.5,0
+2018,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.5,0
+2018,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.7,0
+2019,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,84.8,4
+2019,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,59,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2019,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14.4,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,21.6,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,9.5,0
+2019,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,19.6,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,23.4,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,19.2,0
+2019,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21.6,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,22.9,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,20.5,0
+2019,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,27.5,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,26.5,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,26.7,0
+2019,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,44.4,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40.1,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,54.9,0
+2019,Calendar year,National,E92000001,England,Graduate,Gender,Female,31.7,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,45.3,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,30.9,0
+2019,Calendar year,National,E92000001,England,Graduate,Gender,Male,9.3,0
+2019,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12,0
+2019,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.7,0
+2020,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2020,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,60.1,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2020,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,20.2,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,9.5,0
+2020,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,18.7,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,23.9,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,17.8,0
+2020,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,20.3,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,22.4,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,20,0
+2020,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,24.8,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,25.8,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,24,0
+2020,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,42.7,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,38.8,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,50.4,0
+2020,Calendar year,National,E92000001,England,Graduate,Gender,Female,29.7,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,44.2,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,28.4,0
+2020,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.5,0
+2020,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.1,0
+2020,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.5,0
+2021,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,43.9,4
+2021,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,63,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2021,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,13.3,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,20.7,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,8.9,0
+2021,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,17.3,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,21.8,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,14.6,0
+2021,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,20.5,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,22,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,18.9,0
+2021,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,23.3,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,24.6,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,23.9,0
+2021,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,44.7,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,37.7,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,43.6,0
+2021,Calendar year,National,E92000001,England,Graduate,Gender,Female,28.6,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,41.7,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,25.9,0
+2021,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.3,0
+2021,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,12.8,0
+2021,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,8.3,0
+2022,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2022,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,61.4,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2022,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,14.4,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,20.9,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,10.5,0
+2022,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,16.3,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,22.8,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,17.5,0
+2022,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,21,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,21.9,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,20,0
+2022,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,24.5,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,25.3,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,25.4,0
+2022,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,48.1,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,36.9,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,47.5,0
+2022,Calendar year,National,E92000001,England,Graduate,Gender,Female,29.2,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,42.4,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,29.2,0
+2022,Calendar year,National,E92000001,England,Graduate,Gender,Male,8.7,0
+2022,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,13.5,0
+2022,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,8.6,0
+2023,Calendar year,National,E92000001,England,Graduate,Age Band,16-20,c,4
+2023,Calendar year,National,E92000001,England,Non-Graduate,Age Band,16-20,63.3,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Age Band,16-20,z,4
+2023,Calendar year,National,E92000001,England,Graduate,Age Band,21-30,13.3,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Age Band,21-30,22.3,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Age Band,21-30,10.1,2
+2023,Calendar year,National,E92000001,England,Graduate,Age Band,31-40,17.9,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Age Band,31-40,22.1,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Age Band,31-40,16.6,0
+2023,Calendar year,National,E92000001,England,Graduate,Age Band,41-50,22.1,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Age Band,41-50,22.1,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Age Band,41-50,20.9,0
+2023,Calendar year,National,E92000001,England,Graduate,Age Band,51-60,26.9,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Age Band,51-60,25.7,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Age Band,51-60,25.4,0
+2023,Calendar year,National,E92000001,England,Graduate,Age Band,61-64,45.5,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Age Band,61-64,40,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Age Band,61-64,43,0
+2023,Calendar year,National,E92000001,England,Graduate,Gender,Female,30.5,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Gender,Female,43.7,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Gender,Female,27.8,0
+2023,Calendar year,National,E92000001,England,Graduate,Gender,Male,9.2,0
+2023,Calendar year,National,E92000001,England,Non-Graduate,Gender,Male,13.9,0
+2023,Calendar year,National,E92000001,England,Postgraduate,Gender,Male,9.3,0

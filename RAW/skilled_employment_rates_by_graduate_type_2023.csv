@@ -1,0 +1,4 @@
+time_period,time_identifier,geographic_level,country_code,country_name,graduate_type,hs_employment_rate,mls_employment_rate,hs_employment_accuracy_flag,mls_employment_accuracy_flag
+2023,Calendar year,National,E92000001,England,Graduate 16-64,67.0,20.5,0,0
+2023,Calendar year,National,E92000001,England,Non-Graduate 16-64,23.7,44.9,0,0
+2023,Calendar year,National,E92000001,England,Postgraduate 16-64,78.9,10.4,0,0

@@ -1,0 +1,59 @@
+time_period,time_identifier,geographic_level,country_code,country_name,graduate_group,gender,industry,median,accuracy_flag
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,All industries,45000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,All industries,35500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,"Agriculture, Forestry and Fishing",41000,1
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Energy and Water,52500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Manufacturing,48000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Construction,48000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Distribution or Hotels or Restaurants,29500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Transport and Communication,44500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Banking and Finance,45000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Public Admin or Education or Health,37000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Total,Other Services,34000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,"Agriculture, Forestry and Fishing",c,1
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Energy and Water,62500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Manufacturing,49500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Construction,48000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Distribution or Hotels or Restaurants,34500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Transport and Communication,48000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Banking and Finance,50000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Public Admin or Education or Health,38500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Male,Other Services,34500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,"Agriculture, Forestry and Fishing",c,1
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Energy and Water,31000,1
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Manufacturing,47000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Construction,37500,1
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Distribution or Hotels or Restaurants,24500,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Transport and Communication,40000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Banking and Finance,36000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Public Admin or Education or Health,35000,0
+2023,Calendar year,National,E92000001,England,Graduate 16-64,Female,Other Services,31000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,All industries,35000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,All industries,29500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,"Agriculture, Forestry and Fishing",c,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Energy and Water,31000,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Manufacturing,34500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Construction,43500,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Distribution or Hotels or Restaurants,24000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Transport and Communication,33500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Banking and Finance,35500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Public Admin or Education or Health,31000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Total,Other Services,27500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,"Agriculture, Forestry and Fishing",c,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Energy and Water,c,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Manufacturing,36000,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Construction,43500,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Distribution or Hotels or Restaurants,29000,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Transport and Communication,33500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Banking and Finance,40000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Public Admin or Education or Health,32500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Male,Other Services,27500,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,"Agriculture, Forestry and Fishing",z,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Energy and Water,27500,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Manufacturing,30000,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Construction,40500,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Distribution or Hotels or Restaurants,23000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Transport and Communication,34000,1
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Banking and Finance,31000,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Public Admin or Education or Health,30500,0
+2023,Calendar year,National,E92000001,England,Graduate 21-30,Female,Other Services,27500,1

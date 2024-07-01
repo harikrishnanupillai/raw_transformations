@@ -1,0 +1,13 @@
+time_period,time_identifier,geographic_level,country_code,country_name,age_group,graduate_type,employment_rate,hs_employment_rate,unemployment_rate,inactivity_rate,ppc_employment_rate,ppc_hs_employment_rate,ppc_unemployment_rate,ppc_inactivity_rate,employment_accuracy_flag,hs_employment_accuracy_flag,unemployment_accuracy_flag,inactive_accuracy_flag
+2022,Calendar year,National,E92000001,England,Age group 16-64,Graduate,87.3,66.7,2.5,10.4,0,0,0,0,0,0,0,0
+2022,Calendar year,National,E92000001,England,Age group 16-64,Non-Graduate,69.3,22.9,4.9,27.1,0,0,0,0,0,0,0,0
+2022,Calendar year,National,E92000001,England,Age group 16-64,Postgraduate,89.3,78.2,2,8.8,0,0,0,0,0,0,0,0
+2022,Calendar year,National,E92000001,England,Age group 21-30,Graduate,88.2,61.7,4.3,7.9,0,0,0,0,0,0,1,0
+2022,Calendar year,National,E92000001,England,Age group 21-30,Non-Graduate,74.2,21,5.7,21.3,0,0,0,0,0,0,0,0
+2022,Calendar year,National,E92000001,England,Age group 21-30,Postgraduate,88.7,72.2,4.2,7.4,0,0,0,0,0,0,4,2
+2023,Calendar year,National,E92000001,England,Age group 16-64,Graduate,87.7,67,3,9.6,0.4,0.3,0.5,-0.8,0,0,0,0
+2023,Calendar year,National,E92000001,England,Age group 16-64,Non-Graduate,68.7,23.7,5.1,27.6,-0.6,0.8,0.2,0.5,0,0,0,0
+2023,Calendar year,National,E92000001,England,Age group 16-64,Postgraduate,89.4,78.9,2.1,8.7,0.1,0.7,0.1,-0.1,0,0,0,0
+2023,Calendar year,National,E92000001,England,Age group 21-30,Graduate,87.4,60.4,5.5,7.5,-0.8,-1.3,1.2,-0.4,0,0,0,0
+2023,Calendar year,National,E92000001,England,Age group 21-30,Non-Graduate,72.2,20.7,7.1,22.3,-2,-0.3,1.4,1,0,0,0,0
+2023,Calendar year,National,E92000001,England,Age group 21-30,Postgraduate,90.8,76.4,3,6.4,2.1,4.2,-1.2,-1,0,0,4,4

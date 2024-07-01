@@ -1,0 +1,13 @@
+time_period,time_identifier,geographic_level,country_code,country_name,graduate_characteristic,graduate_breakdown,employment_rate,hs_employment_rate,unemployment_rate,inactivity_rate,employment_accuracy_flag,hs_employment_accuracy_flag,unemployment_accuracy_flag,inactive_accuracy_flag
+2023,Calendar year,National,E92000001,England,Degree Class,First,88.7,70.2,2.2,9.3,0,0,4,0
+2023,Calendar year,National,E92000001,England,Degree Class,Upper Second 2:1,88.4,69.0,2.4,9.5,0,0,0,0
+2023,Calendar year,National,E92000001,England,Degree Class,Lower Second 2:2,86.4,63.4,2.2,11.6,0,0,4,0
+2023,Calendar year,National,E92000001,England,Degree Class,Third,85.0,57.1,4.4,11.0,0,0,4,4
+2023,Calendar year,National,E92000001,England,Disability,Disabled,77.0,53.2,4.5,19.3,0,0,3,0
+2023,Calendar year,National,E92000001,England,Disability,Not Disabled,89.3,69.3,2.1,8.7,0,0,0,0
+2023,Calendar year,National,E92000001,England,Ethnicity,Asian or Asian British,85.4,62.9,3.7,11.3,0,0,4,0
+2023,Calendar year,National,E92000001,England,Ethnicity,Black or African or Caribbean or Black British,86.8,58.8,4.8,8.8,0,0,4,4
+2023,Calendar year,National,E92000001,England,Ethnicity,Other Ethnic Group,87.4,64.0,3.5,9.4,0,0,4,4
+2023,Calendar year,National,E92000001,England,Ethnicity,White,87.6,67.6,2.2,10.5,0,0,0,0
+2023,Calendar year,National,E92000001,England,Gender,Male,88.6,70.5,3.0,8.7,0,0,0,0
+2023,Calendar year,National,E92000001,England,Gender,Female,86.2,63.0,2.0,12.1,0,0,0,0
