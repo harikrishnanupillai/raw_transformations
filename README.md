@@ -12,3 +12,5 @@ All the codes are written using jupyter notebook, please create a local jupyter 
     2. launch notebook - jupyter notebook
 
 Initially run `raw_to_integration.ipynb` file followed by `Integration_to_presentation.ipynb` and lastly `Presentation_analysis.ipynb`
+
+If folders `Integration` and `presentation` are not available, please create them.
